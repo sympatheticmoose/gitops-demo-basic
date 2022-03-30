@@ -20,7 +20,7 @@ spec:
       password: notsecure
       username: wego-admin
     namespace: flux-system
-    rbac: 
+    rbac:
       create: true
 ---
 apiVersion: source.toolkit.fluxcd.io/v1beta1
